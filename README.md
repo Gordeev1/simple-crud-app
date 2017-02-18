@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Installation
 ```bash
 git clone https://github.com/Gordeev1/simple-crud-app.git
-cd dashboard
+cd simple-crud-app
 yarn
 yarn run build
 yand run server
